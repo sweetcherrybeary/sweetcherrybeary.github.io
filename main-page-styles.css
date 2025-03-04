@@ -71,7 +71,7 @@ body {
   background-color: #575757;
 }
 
-.search-container input {
+.navbar .search-container input {
   padding: 8px;
   width: 600px;
   border: none;
